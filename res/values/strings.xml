@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ServiceDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="start">开启服务</string>
+    <string name="bind">绑定服务</string>
+    <string name="next">下一个</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="stop">停止服务</string>
+    <string name="title_activity_third">ThirdActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="unbind">解除绑定</string>
+
+</resources>
